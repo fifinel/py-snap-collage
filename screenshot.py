@@ -1,6 +1,7 @@
 #takes a screenshot when you press the 'k' key. Press 'q' to quit.
 #no errors here!
 
+
 import pyautogui
 import keyboard
 import datetime
@@ -29,3 +30,18 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+# Questions
+
+'''
+What is the pyautogui library useful for?
+What is the keyboard library useful for?
+What is the datetime library useful for?
+
+"timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")" - explain this construct
+
+
+
+'''
